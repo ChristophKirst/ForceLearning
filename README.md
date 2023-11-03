@@ -1,6 +1,6 @@
  
 # ForceLearning
-Impementation of the FORCE leanring algorithm
+Implementation of the FORCE learning algorithm
 
 # Reference
 Generating Coherent Patterns of Activity from Chaotic Neural Networks
